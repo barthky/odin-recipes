@@ -1,0 +1,10 @@
+h1 {
+  color: black;
+  font-size: 36px;
+  font-weight: 700px;
+  text-decoration: underline;
+}
+
+.recipe {
+  background-color: beige;
+}
